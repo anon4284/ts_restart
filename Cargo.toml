@@ -1,0 +1,9 @@
+[package]
+name = "ts_restart"
+version = "0.1.0"
+authors = ["l <l>"]
+
+[dependencies]
+curl = "0.4"
+ssh2 = "0.3"
+rustc-serialize = "0.3"
